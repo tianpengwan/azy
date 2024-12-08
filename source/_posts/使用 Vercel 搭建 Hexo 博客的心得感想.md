@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-07-13T19:06:42.662737+08:00'
-index_img: https://tc.20010501.xyz/file/c1fbfb4f2853b60a925b9.png
+cover: https://tc.20010501.xyz/file/c1fbfb4f2853b60a925b9.png
 tags:
 - Vercel
 - 搭建博客
