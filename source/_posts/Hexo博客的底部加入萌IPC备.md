@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-26T17:55:38.422480+08:00'
-index_img: https://ghtpdl.20010501.xyz/tptp/S40826-17543821_com.android.chrome.png
+cover: https://ghtpdl.20010501.xyz/tptp/S40826-17543821_com.android.chrome.png
 tags:
 - 萌IPC备案
 title: Hexo博客的底部加入萌IPC备
