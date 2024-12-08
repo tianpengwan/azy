@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-12T17:08:04.202849+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/u=1347888029,3956638534&fm=253&fmt=auto&app=138&f=JPEG_35caba261c8abba22d22e080456ad035.jpeg
+cover: https://ghtpdl.20010501.xyz/Qexo/24/8/u=1347888029,3956638534&fm=253&fmt=auto&app=138&f=JPEG_35caba261c8abba22d22e080456ad035.jpeg
 tags:
 - hexo
 - 博客
