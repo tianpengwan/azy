@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-09T11:22:31.723483+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/OIP-C%20(1)_7f66845f09cc8a86ba80f4084b9071b3.jfif
+cover: https://ghtpdl.20010501.xyz/Qexo/24/8/OIP-C%20(1)_7f66845f09cc8a86ba80f4084b9071b3.jfif
 tags:
 - Serv00
 - 小雅Alist
