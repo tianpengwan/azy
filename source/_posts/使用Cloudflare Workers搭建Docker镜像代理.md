@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-14T20:16:47.215582+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/7/u=1326085449,2834338878&fm=253&fmt=auto&app=120&f=JPEG_255575cfc8a67936661ab1db71bbe9b0.jpg
+cover: https://ghtpdl.20010501.xyz/Qexo/24/7/u=1326085449,2834338878&fm=253&fmt=auto&app=120&f=JPEG_255575cfc8a67936661ab1db71bbe9b0.jpg
 tags:
 - docker
 - cloudflare workers
