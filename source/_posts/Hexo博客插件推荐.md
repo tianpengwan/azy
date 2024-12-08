@@ -4,7 +4,7 @@ banner_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e
 categories:
 - - 技术教程
 date: '2024-08-12T21:03:02.455084+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
+cover: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022876_2eb5af6a7ee0d33d58e167a4e09a7f80.jpg
 tags:
 - hexo
 - 插件
