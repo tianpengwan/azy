@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-12-02T03:58:48.760543+08:00'
-index_img: https://ghtpdl.20010501.xyz/tptp/图片1.png
+cover: https://ghtpdl.20010501.xyz/tptp/图片1.png
 tags:
 - TSP
 title: TSPwin数据处理教程
