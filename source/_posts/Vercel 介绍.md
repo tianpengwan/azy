@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-07-13T08:11:42.242611+08:00'
-index_img: https://tc.20010501.xyz/file/dab87946d8dea4732d790.jpg
+cover: https://tc.20010501.xyz/file/dab87946d8dea4732d790.jpg
 tags:
 - 测试
 - Vercel
