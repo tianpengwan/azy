@@ -2,13 +2,13 @@
 abbrlink: ''
 categories:
 - - 技术教程
+cover: https://ghtpdl.20010501.xyz/tptp/mmexport1733481756261.png
 date: '2024-12-06T02:34:06.117560+08:00'
 tags:
 - 光猫破解
 - 中国移动
 title: 中国移动ZN-H91最新光猫破解方法
-top_img: https://ghtpdl.20010501.xyz/tptp/mmexport1733481756261.png
-updated: '2024-12-09T00:06:17.206+08:00'
+updated: '2024-12-09T00:52:40.551+08:00'
 ---
 # 中国移动ZN-H91最新光猫破解方法
 
