@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-06T12:40:01.943228+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022782_636c597cf780a10a2d936ce4822371f8.jpg
+cover: https://ghtpdl.20010501.xyz/Qexo/24/8/1000022782_636c597cf780a10a2d936ce4822371f8.jpg
 tags:
 - SD
 - AI绘画
