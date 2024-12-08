@@ -2,15 +2,15 @@
 abbrlink: ''
 categories:
 - - 技术教程
+cover: https://ghtpdl.20010501.xyz/Qexo/24/8/微信图片_20240817173205_f582e34b3247f1375b678f02f2c1b1a6.png
 date: '2024-08-17T17:32:56.307718+08:00'
-index_img: https://ghtpdl.20010501.xyz/Qexo/24/8/微信图片_20240817173205_f582e34b3247f1375b678f02f2c1b1a6.png
 tags:
 - Crawler Hints
 - Cloudflare
 - 搜索引擎
 - 网站收录
 title: Crawler Hints开启无脑管理网站收录
-updated: '2024-08-17T17:33:03.526+08:00'
+updated: '2024-12-09T00:52:10.398+08:00'
 ---
 Crawler Hints 是一种由 Cloudflare 推出的服务，旨在提高网络爬虫和机器人访问网站时的效率。以下是关于 Crawler Hints 的详细介绍：
 
