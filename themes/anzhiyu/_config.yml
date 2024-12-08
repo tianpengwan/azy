@@ -1050,8 +1050,8 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 寓形宇内复几时
-  subTitle: 曷不委心任去留
+  title: 寓形宇内
+  subTitle: 曷不委心
   siteText: anheyu.com
   category:
     - name: 技术教程
