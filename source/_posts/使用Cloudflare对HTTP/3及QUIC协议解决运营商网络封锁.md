@@ -3,7 +3,8 @@ abbrlink: ''
 categories:
 - - 技术教程
 date: '2024-08-15T11:18:56.854058+08:00'
-cover:https://ghtpdl.20010501.xyz/Qexo/24/8/http3quic_2a7780438d1827f6e75de0c0c68e1662.jpg
+cover:
+https://ghtpdl.20010501.xyz/Qexo/24/8/http3quic_2a7780438d1827f6e75de0c0c68e1662.jpg
 tags:
 - HTTP/3
 - QUIC
