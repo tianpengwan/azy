@@ -13,7 +13,7 @@ menu:
      音乐馆: /music/ || anzhiyu-icon-music
   #   追番页: /bangumis/ || anzhiyu-icon-bilibili
      相册集: /album/ || anzhiyu-icon-images
-     小空调: /air-conditioner/ || anzhiyu-icon-fan
+  #  小空调: /air-conditioner/ || anzhiyu-icon-fan
 
    关于:
      关于本人: /about/ || anzhiyu-icon-paper-plane
@@ -90,7 +90,7 @@ author_status:
 
 # Algolia search
 algolia_search:
-  enable: false
+  enable: true
   hits:
     per_page: 6
   tags:
@@ -1082,9 +1082,9 @@ home_top:
 
 # 朋友圈配置
 friends_vue:
-  enable: false
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
-  apiurl: # 朋友圈后端地址
+  enable: true
+  vue_js: https://uipv4.zywvvd.com:33030/HexoFiles/js/friend-circle/app.min.js
+  apiurl: https://pyq.20010501.xyz/
   top_tips: 使用 友链朋友圈 订阅友链最新文章
   top_background:
 
